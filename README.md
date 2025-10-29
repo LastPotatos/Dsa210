@@ -1,4 +1,4 @@
-# Anime combat analyzer
+# Anime combat/fighting style analyzer
 
 Hello i am han eskicioglu currently a sophmore in sabanci university learning computer science and engineering 
 this is my dsa 210 project
