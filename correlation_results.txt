@@ -1,0 +1,9 @@
+=== CORRELATION RESULTS ===
+
+Mean Score ↔ Market Value
+  r = 0.3356
+  p = 5.0327e-03
+
+Anime Count ↔ Market Value
+  r = 0.7723
+  p = 0.0000e+00

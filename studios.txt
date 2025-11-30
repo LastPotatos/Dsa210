@@ -1,0 +1,65 @@
+# Pure Animation Studios (Public)
+Toei Animation, TYO:4816
+IG Port (Production I.G, Wit Studio, Signal.MD), TYO:3791
+
+# Major Anime Parent Companies
+Bandai Namco Holdings, TYO:7832
+Sony Group (Aniplex, Crunchyroll), TYO:6758
+Kadokawa Corporation, TYO:9468
+Avex Group (Anime Music / Production), TYO:7860
+Bushiroad (Media Mix / Anime IP), TYO:7815
+CyberAgent (Owner of Abema, supports anime), TYO:4751
+
+# Anime TV Broadcasters
+TV Tokyo Holdings, TYO:9413
+Fuji Media Holdings, TYO:4676
+Nippon TV Holdings (Owns Studio Ghibli), TYO:9404
+Tokyo Broadcasting System (TBS), TYO:9401
+Asahi Broadcasting Group, TYO:9405
+WOWOW (Anime channel), TYO:4839
+
+# Film / Distribution Companies (Anime Films)
+Toho Co., Ltd., TYO:9602
+Shochiku Co., Ltd., TYO:9601
+Kadokawa Pictures (covered by Kadokawa), TYO:9468
+Happinet (anime distributor), TYO:7552
+
+# Manga / Light Novel Publishers (Anime Source IP)
+Shueisha (part of Hitotsubashi Group, not public)
+Shogakukan (not public)
+Hakusensha (not public)
+Square Enix Holdings, TYO:9684
+Kodansha (not public)
+Media Do (digital manga), TYO:3678
+
+# Merchandising / Toys / Licensing
+Takara Tomy, TYO:7867
+Sanrio (Hello Kitty, anime collabs), TYO:8136
+Good Smile Company (figures - not public)
+Broccoli Co. (Merch & anime goods), TYO:2706
+Movic (not public)
+
+# Music Labels strongly tied to anime
+King Records (Starchild) (Owned by Kodansha, not public)
+Lantis (owned by Bandai Namco)
+Pony Canyon, TYO:4763
+Universal Music Japan (not public)
+
+# Streaming Platforms (huge effect on anime economy)
+Netflix (Anime Production), NASDAQ:NFLX
+Amazon (Anime Licensing), NASDAQ:AMZN
+Disney (Anime streaming), NYSE:DIS
+Rakuten (Rakuten TV), TYO:4755
+
+# Gaming Companies with big anime crossovers
+Sega Sammy Holdings, TYO:6460
+Konami Group, TYO:9766
+Capcom, TYO:9697
+Koei Tecmo, TYO:3635
+
+# Additional Media-Related Companies
+NTT Docomo (Anime collaborations), TYO:9437
+SoftBank Group, TYO:9984
+LINE Yahoo Japan (Z Holdings), TYO:4689
+GREE (anime mobile games), TYO:3632
+DeNA (anime mobile games), TYO:2432
