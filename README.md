@@ -18,7 +18,7 @@ This is my project for DSA 210
    - [Market Value Data Collection](#market-value-data-collection)  
    - [Correlation Computation](#correlation-computation)  
 7. [Hypotheses and Results](#hypotheses-and-results)  
-
+8. [How to use the code](#How_to_use_the_code).
 
 
 ---
@@ -37,17 +37,17 @@ since i already watch a lot of anime i wanted to know more about the growth of t
 
 - **Observe the markets growth** look for socks of select companys that contribute to anime
 - **Get all the animes** by year and rating from sources to compare
-
+- **Predict the market** by the anime count to value or market value to count
 ---
 
 ## Questions
 1. Which has more coralation between the market growth?
 2. how does the market behave if ratings or the ammount changes
-
+3. how much anime would be released if the market held their point
 --- 
 
 ## Data sources 
-Stock market and my animelist scraping will be enough for this project
+Stock market and my animelist(MAL) scraping will be enough for this project
 
 ---
 
@@ -59,3 +59,6 @@ Stock market and my animelist scraping will be enough for this project
 - **Hyphotesis 2** animes quality in fact add to market growth
 -  **Result**  as it seems it does not there will be studio by studio compersison later
 
+##How to use the code
+1. if you want the up to date info run every cell in main.ipynb
+2. after that or if you are ok with the current info run the last cell and enter the website
