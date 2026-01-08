@@ -59,6 +59,9 @@ Stock market and my animelist(MAL) scraping will be enough for this project
 - **Hyphotesis 2** animes quality in fact add to market growth
 -  **Result**  as it seems it does not there will be studio by studio compersison later
 
-##How to use the code
+---
+
+## How to use the code
+
 1. if you want the up to date info run every cell in main.ipynb
 2. after that or if you are ok with the current info run the last cell and enter the website
