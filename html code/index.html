@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Anime Industry Predictor</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <style>
+    body { font-family: Arial; max-width: 900px; margin: auto; }
+    input { margin: 5px; padding: 5px; }
+  </style>
+</head>
+<body>
+
+<h2>Anime Industry Market Predictor</h2>
+
+<canvas id="chart"></canvas>
+
+<h3>Predict Next Quarter</h3>
+
+<label>Anime Count:</label>
+<input type="number" id="animeCount" value="60">
+<button onclick="predictFromAnime()">Predict Market</button>
+
+<br><br>
+
+<label>Target Market Value ($):</label>
+<input type="number" id="targetValue">
+<button onclick="predictFromMarket()">Predict Anime Count</button>
+
+<p id="output"></p>
+
+<script src="app.js"></script>
+</body>
+</html>
