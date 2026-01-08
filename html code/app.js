@@ -45,7 +45,7 @@ function drawChart(predicted=null) {
 function predictFromAnime() {
   const anime = parseFloat(document.getElementById("animeCount").value);
   const g = params.w0 + params.w1 * anime + params.w2 * params.pred_mean_score;
-  const pred = params.last_value * Math.exp(g);
+  const pred = params.last_value * Math.exp(g / 4);
 
   document.getElementById("output").innerText =
     `Predicted Market Value: $${pred.toFixed(0)}`;
