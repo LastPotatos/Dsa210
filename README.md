@@ -94,5 +94,5 @@ In this project there were some code and objects that Ai helped or wrote these i
 These codes can be optimised by
 1. To guess how much of the animes genre would be created
 2. Predict more narrow field of companies
-but sadly given todays anime count there is not enough data on this
+- But sadly given todays anime count there is not enough data on this
 
