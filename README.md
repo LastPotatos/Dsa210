@@ -18,10 +18,10 @@ This is my project for DSA 210
    - [Market Value Data Collection](#market-value-data-collection)  
    - [Correlation Computation](#correlation-computation)  
 7. [Hypotheses and Results](#hypotheses-and-results)  
-8. [How to use the code](#How_to_use_the_code).
-9. [How the code_works](#How_the_code_works).
-10. [Ai assistance](#Ai_assistance)
-11. [Future Work](#Future_Work) 
+8. [How to use the code](#How-to-use-the-code).
+9. [How the code_works](#How-the-code-works).
+10. [Ai assistance](#Ai-assistance)
+11. [Future Work](#Future-Work) 
  
 ---
 
@@ -72,11 +72,11 @@ Stock market and my animelist(MAL) scraping will be enough for this project
 
 ## How the code works
 
-The first cell scrapes the stock market in the studios.txt folder and documents them by their total value
-The second cell scrapes myanimelist for all animes getting their avarage ratings and number by the quarter
-The third cell calculates p and r values for median and stock value and number and stock value
-The fourth cell applies ml methods to guestimate a number given their reletionship
-Laslty the last cell runs the html code designed to illutrate the data
+- The first cell scrapes the stock market in the studios.txt folder and documents them by their total value
+- The second cell scrapes myanimelist for all animes getting their avarage ratings and number by the quarter
+- The third cell calculates p and r values for median and stock value and number and stock value
+- The fourth cell applies ml methods to guestimate a number given their reletionship
+- Laslty the last cell runs the html code designed to illutrate the data
 ---
 
 ## Ai assitance
