@@ -81,7 +81,8 @@ Stock market and my animelist(MAL) scraping will be enough for this project
 
 ## Ai assitance
 
-In this project there were some code and objects that Ai helped or wrote these include
+- In this project there were some code and objects that Ai helped or wrote. 
+- These include
 
 1. The website code
 2. The scraper that scrapes the stock market
